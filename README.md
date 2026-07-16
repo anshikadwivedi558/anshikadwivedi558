@@ -23,7 +23,7 @@
 ```yaml
 name: Anshika Dwivedi
 role: Aspiring Software Engineer & Full Stack Developer
-education: B.Tech/B.E. in Computer Science, India
+education: B.Tech 2nd year / Computer Science, India
 team:
   - Co-Lead & Full Stack Developer @ Team StackVolt
 current_focus:
@@ -77,7 +77,6 @@ philosophy: "Continuous learning, clean code, and growth through collaboration."
 <div align="center">
 
 ### 🛡️ acropyre-sentinel
-*[Replace with a sharp one-line pitch: what it does, for whom, why it matters]*
 
 ![Language](https://img.shields.io/github/languages/top/warrior2025-eng/acropyre-sentinel?style=flat-square&color=F7DF1E)
 ![Stars](https://img.shields.io/github/stars/warrior2025-eng/acropyre-sentinel?style=flat-square&color=EC4899)
@@ -87,7 +86,6 @@ philosophy: "Continuous learning, clean code, and growth through collaboration."
 
 </div>
 
-> 📌 Badges above pull live data from GitHub automatically — once the repo exists at that link with commits, everything will populate on its own.
 
 <br/>
 
