@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=600&lines=Building+practical%2C+real-world+software;Computer+Science+Undergraduate;Full+Stack+Developer+%7C+Hackathon+Participant;Passionate+about+clean+code+%26+UI%2FUX" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=650&lines=Building+practical%2C+real-world+software;Computer+Science+Undergraduate;Co-Lead+%26+Full+Stack+Developer+%40+Team+StackVolt;Passionate+about+clean+code+%26+UI%2FUX" />
 
 </div>
 
@@ -23,7 +23,9 @@
 ```yaml
 name: Anshika Dwivedi
 role: Aspiring Software Engineer & Full Stack Developer
-education: B.Tech/B.E. in Computer Science, India
+education: B.Tech 2nd year/Computer Science, India
+team:
+  - Co-Lead & Full Stack Developer @ Team StackVolt
 current_focus:
   - Full Stack Web Development
   - Responsive Web Design
@@ -39,11 +41,12 @@ philosophy: "Continuous learning, clean code, and growth through collaboration."
 ```
 
 - 🎓 Computer Science undergraduate, India
+- 🤝 **Co-Lead & Full Stack Developer** at **Team StackVolt**
 - 💻 Learning to build full stack applications that solve real problems
 - 🏆 Active hackathon participant — sharpening teamwork & problem-solving under deadlines
 - 🌱 Currently strengthening: HTML, CSS, JavaScript, Responsive Design
 - 🎯 Long-term goal: become an excellent Full Stack Developer, contribute to open source, and build impactful products
-- 🤝 I value consistency, clear communication, and quality over quantity
+- ✨ I value consistency, clear communication, and quality over quantity
 
 <br/>
 
@@ -69,30 +72,22 @@ philosophy: "Continuous learning, clean code, and growth through collaboration."
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🔹 Project One
+### 🛡️ acropyre-sentinel
 *[Replace with a sharp one-line pitch: what it does, for whom, why it matters]*
 
-**[View Repository →](#)**
+![Language](https://img.shields.io/github/languages/top/anshikadwivedi558/acropyre-sentinel?style=flat-square&color=F7DF1E)
+![Stars](https://img.shields.io/github/stars/anshikadwivedi558/acropyre-sentinel?style=flat-square&color=EC4899)
+![Last Commit](https://img.shields.io/github/last-commit/anshikadwivedi558/acropyre-sentinel?style=flat-square&color=A855F7)
 
-</td>
-<td width="50%" valign="top">
+**[View Repository →](https://github.com/anshikadwivedi558/acropyre-sentinel)**
 
-### 🔹 Project Two
-*[Replace with a sharp one-line pitch: what it does, for whom, why it matters]*
+</div>
 
-**[View Repository →](#)**
-
-</td>
-</tr>
-</table>
-
-> 📌 Once your first projects are live, replace these placeholders with real repo links — GitHub stats badges will auto-populate from there.
+> 📌 Badges above pull live data from GitHub automatically — once the repo exists at that link with commits, everything will populate on its own.
 
 <br/>
 
@@ -102,6 +97,10 @@ philosophy: "Continuous learning, clean code, and growth through collaboration."
 
 ![Followers](https://img.shields.io/github/followers/anshikadwivedi558?style=for-the-badge&color=EC4899&labelColor=1e1b2e)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/anshikadwivedi558&label=Public%20Repos&query=public_repos&style=for-the-badge&color=A855F7&labelColor=1e1b2e)
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshikadwivedi558&theme=tokyonight&hide_border=true&background=1e1b2e&ring=EC4899&fire=A855F7" width="70%" />
 
 </div>
 
